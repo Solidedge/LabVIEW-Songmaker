@@ -29,9 +29,13 @@ For those that wants simpler chords, there are settings for only including those
 Some randomness settings are available in the tab "Settings".
 
 # Disclaimer
-The software was developed during my time at the university, at the start of the covid pandemic. The time between last edit and publishing means that there are problems, workarounds and shortcomings that I've since forgotten about. All usage should therefore be done at your own risk. The MIDI functionality might have problems that can only be solved by a reboot. If you experience problems with playing the chordprogression, and it worked previously, a reboot can fix it.
+**1** The software was developed during my time at the university, at the start of the covid pandemic. The time between last edit and publishing means that there are problems, workarounds and shortcomings that I've since forgotten about. All usage should therefore be done at your own risk. The MIDI functionality might have problems that can only be solved by a computer reboot.
 
-Bear in mind this software was originally written in my native language, but I've since translated most of it to english. This means that there will be phrases in Norwegian. Those phrases are predominantly phrases that have dependencies, which I didn't feel like tracking down before publishing. There may be some phrases I forgot as well, but most of these are not needed for testing and get a general understanding of the software. 
+**2** Bear in mind this software was originally written in my native language, but I've since translated most of it to english. This means that there will be phrases in Norwegian. Those phrases are predominantly phrases that have dependencies, which I didn't feel like tracking down before publishing. There may be some phrases I forgot as well, but most of these are not needed for testing and get a general understanding of the software. 
+
+**3** I did not go over the the code before publishing. Meaning sensitive persons should avoid inspecting it, as I seem to remember being *the* messiest VI I've ever created! You are hereby warned that inspecting the code can induce trauma.
+
+**4** This project will probably not see any further development.
 
 # Requirements
 - LabVIEW
