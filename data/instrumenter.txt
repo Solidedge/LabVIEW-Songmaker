@@ -1,0 +1,24 @@
+List of instruments and plugins available:
+Electric guitar
+Acoustic guitar
+Acoustic bass
+Electric bass (5 strings)
+Electric bass (4 strings)
+12-stringed guitar
+Ukulele
+Harmonica
+Jaw harp
+Tambourine
+A random kitchen utility (percussion)
+Wineglass
+Recorder (Woodwind)
+Drums (plugin)
+Piano (plugin)
+Synth (plugin)
+Strings (plugin)
+Organ (plugin)
+Percussion (plugin)
+Flute (plugin)
+Reed (plugin)
+Sample from song
+Sample from TV/movie/series

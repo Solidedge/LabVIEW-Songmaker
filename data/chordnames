@@ -1,0 +1,39 @@
+Full name			;Short	;Long			; Notes in the scale of C
+Major				;		;maj			;C,E,G
+Minor				;m		;min			;C,Eb,G
+Diminished			;o		;dim			;C,Eb,Gb
+Major 6th			;6		;maj6			;C,E,G,A
+Major 7th			;M7		;maj7			;C,E,G,B
+Suspended 4th		;sus4	;sus4			;C,F,G
+Suspended 2nd		;sus2	;sus2			;C,D,G
+Jazz sus			;9sus4	;9sus4			;C,F,G,Bb,D
+Minor 6th			;m6		;min6			;C,Eb,G,A
+Minor 7th			;m7		;min7			;C,Eb,G,Bb
+Minor 9th			;m9		;min9			;C,Eb,G,Bb,D
+Minor Major 7th		;mM7	;mmaj7			;C,Eb,G,B
+Dominant 7th		;7		;dom7			;C,E,G,Bb
+Augmented triad		;+		;aug			;C,E,G#
+Augmented 7th		;+7		;7aug			;C,E,G#,Bb
+Augmented Major 7th	;+M7	;M7#5			;C,E,G#,B
+					;7sus4	;7sus4			;C,F,G,Bb
+Dominant 9th		;9		;dom9			;C,E,G,Bb,D
+Dominant 11th		;11		;dom11			;C,E,G,Bb,D,F
+Dominant 13th		;13		;dom13			;C,E,G,Bb,D,F,A
+					;7#9	;dom7#9			;C,E,G,Bb,D#
+					;7b9	;7b9			;C,E,G,Bb,Db
+					;13		;dom13			;C,E,G,Bb,D,A
+Power Chord			;5		;5				;C,G
+Dominant 9th		;9		;9				;C,E,G,Bb,D
+					;m6/9	;m6/9			;C,Eb,G,A,D
+Half-diminished 7th	;Ø		;m7b5			;C,Eb,Gb,Bb
+					;m11b5	;m11b5			;C,Eb,Gb,Bb,D,F
+Diminished 7th		;o7		;dim7			;C,Eb,Gb,A
+7th Minor 9th		;7b9	;7b9			;C,E,F,Bb,Db
+7th Sharp 9th		;7#9	;7#9			;C,E,G,Bb,D#
+7th Augmented 11th	;7#11	;7#11			;C,E,G,Bb,D,F#
+7th Diminished 13th	;7b13	;7b13			;C,E,G,Bb,D,F,Ab
+Add 9				;2		;add9			;C,E,G,D
+Add 4th				;4		;add11			;C,E,G,F
+6-9					;6/9	;6/9			;C,E,G,A,D
+7-6					;7/6	;7/6			;C,E,G,A,Bb
+Mixed 3rd			;mix3	;mix3			;C,Eb,E,G
